@@ -1,5 +1,5 @@
 function hasTargetSum(array, target) {
-  // Write your algorithm here
+  // Write your algorithm here.
 }
 
 /* 
